@@ -1,0 +1,25 @@
+
+#carouselExampleFade{
+    size: 20%;
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+#NOSOTROS{
+    size: 100%;
+    padding: 20px;
+    height: 50px;
+}
+.button{
+    display: flex;
+    align-items: center;
+    background-color: rgb(250, 250, 250);
+    padding: 5px;
+
+}
+#MISIÓN{
+background-image: url("images js\images css\descarga.png");
+background: fixed;
+background-size: cover;
+}
